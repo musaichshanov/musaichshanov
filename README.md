@@ -11,6 +11,7 @@ I'm 19 y.o beginner iOS developer, studying in Saint Petersburg university "LETI
 ## 🙇 Author
 #### Ichshanov Mussa
 - Telegram: [@luluvnk](https://t.me/luluvnk)
+- Mail: [musa.ischanov@gmail.com](https://mail.google.com/musa.ischanov)
 - Github: [@musaichshanov](https://github.com/musaichshanov)
        
 
