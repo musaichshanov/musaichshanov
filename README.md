@@ -1,11 +1,16 @@
 # Hello, my name is Mussa   
-I'm 19 y.o beginner iOS developer, studying in Saint Petersburg university "LETI"    
+I'm 20 y.o middle .NET developer, studying in Saint Petersburg university "LETI"    
 ## 🛠️ Tech Stack
-- Swift
-- C++
-- Python
-- SwiftUI
-- UIKit
+- .NET 6/7/8
+- SQL/noSQL Databases (Postgres, MongoDB prefered)
+- C#
+- gRPC, RabbitMQ
+- Linux
+
+## Top projects
+- VPN using Vless Protocol
+- Web for photo AI
+- Trading market
 
 
 ## 🙇 Author
@@ -14,24 +19,3 @@ I'm 19 y.o beginner iOS developer, studying in Saint Petersburg university "LETI
 - Mail: [musa.ischanov@gmail.com](https://mail.google.com/musa.ischanov)
 - Github: [@musaichshanov](https://github.com/musaichshanov)
        
-
-## 🧑🏻‍💻 My fav lang
-```Swift
-let hello = "Hello, world!"
-let multilineString = """
-                  @@@
-      @@          @@@@
-    @@  @@@         @@@@@
-    @@@@@@@@@       @@@@@
-      @@@@@@@@@@    @@@@@@
-        @@@@@@@@@@  @@@@@@
-          @@@@@@@@@@@@@@@@@
-@           @@@@@@@@@@@@@@@
-@@@@@@        @@@@@@@@@@@@@
-  @@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@
-        @@@@@@@@@@@@@     @
-           
-"""
-```
-<img src="https://github.com/musaichshanov/musaichshanov/blob/main/github-snake.svg">
